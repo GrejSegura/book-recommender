@@ -1,4 +1,4 @@
-# book-recommender
+# book-recommender-(This is a WIP)
 
 <div align="center">
 <img src=https://raw.githubusercontent.com/GrejSegura/book-recommender/master/img/books.jpg>
