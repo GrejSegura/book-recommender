@@ -1,4 +1,4 @@
-# book-recommender-(This is a WIP)
+# book-recommender-(Work in Progress)
 
 <div align="center">
 <img src=https://raw.githubusercontent.com/GrejSegura/book-recommender/master/img/books.jpg>
